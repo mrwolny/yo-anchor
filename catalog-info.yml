@@ -11,5 +11,5 @@ metadata:
     github.com/project-slug: mrwolny/yo-anchor
 spec:
   type: library
-  owner: user:guest
+  owner: team-a
   lifecycle: experimental
