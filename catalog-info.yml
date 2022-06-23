@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yo-anchor
+  description: |
+    Anchor recognition by Loris
+  links:
+    - title: Website
+      url: https://lorisleiva.com/create-a-solana-dapp-from-scratch
+  annotations:
+    github.com/project-slug: mrwolny/yo-anchor
+spec:
+  type: library
+  owner: WLN
+  lifecycle: experimental
